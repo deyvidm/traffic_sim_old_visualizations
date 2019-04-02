@@ -1,4 +1,9 @@
 
+## Description
+
+This repo is a sort of journal that kept track of my attempts to find the right library for my needs.
+The notes helped me write my final research paper and helped justify why I used AnimeJS over any of the other technologies. 
+
 ### V1 -- D3.js
 
 * snazzy JS framework
